@@ -73,6 +73,6 @@ Use esta seção para destacar áreas nas quais você deseja continuar focando e
 
 ## Autor
 
-- Site - [Jonathan Santos](https://www.your-site.com)
+- Site - [Jonathan Santos](https://jonathangosantos.netlify.app/)
 - Frontend Mentor - [@JonathanGOSantos](https://www.frontendmentor.io/profile/JonathanGOSantos)
 - Instagram - [@jonathan.go.santos](https://www.instagram.com/jonathan.go.santos/)
